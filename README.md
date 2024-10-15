@@ -2,7 +2,8 @@
 This project aims to create a file that normalizes the volume of a .wav file so that the entire song has a similar volume
 
 ## Usage
-The C program reads a `.wav` audio file, applies volume adjustments, and outputs a new file with uniform volume.
+- The C program reads a `.wav` audio file, applies volume adjustments, and outputs a new file with uniform volume.
+- This code works specifically with a version provided of the song "Kid A.wav" by Radiohead
 
 ## Code Structure
 - The program reads the .wav file header and processes each audio sample.
