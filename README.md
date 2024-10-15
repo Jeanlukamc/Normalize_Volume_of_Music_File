@@ -11,6 +11,9 @@ The C program reads a `.wav` audio file, applies volume adjustments, and outputs
 
 ## Screenshots
 - Original File:
+
 ![image](https://github.com/user-attachments/assets/82eda7b6-736d-41eb-bc5f-8dd06885fc55)
 - Edited File Result:
+
+
 ![image](https://github.com/user-attachments/assets/e44011b8-5474-4345-992d-2328e54694c3)
